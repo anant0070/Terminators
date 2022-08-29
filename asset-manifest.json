@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Terminators/static/css/main.abf58a7d.css",
+    "main.js": "/Terminators/static/js/main.e2a94358.js",
+    "static/js/787.e8f3daa8.chunk.js": "/Terminators/static/js/787.e8f3daa8.chunk.js",
+    "static/media/SEGA.woff": "/Terminators/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Terminators/index.html",
+    "static/media/heart-solid.svg": "/Terminators/static/media/heart-solid.9c669401d678e338211f9272530cf237.svg",
+    "main.abf58a7d.css.map": "/Terminators/static/css/main.abf58a7d.css.map",
+    "main.e2a94358.js.map": "/Terminators/static/js/main.e2a94358.js.map",
+    "787.e8f3daa8.chunk.js.map": "/Terminators/static/js/787.e8f3daa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf58a7d.css",
+    "static/js/main.e2a94358.js"
+  ]
+}
