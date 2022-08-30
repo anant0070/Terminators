@@ -5,6 +5,7 @@ import SearchBox from './SearchBox';
 import './App.css';
 import Scroll from "./Scroll";
 import Footer from './Footer.js'
+
 class App extends Component{
 constructor(){
     super();

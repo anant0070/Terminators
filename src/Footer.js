@@ -4,7 +4,7 @@ import './Footer.css'
 import './heart-solid.svg'
 const footer=()=>{
     return(
-            <div id="foo"> Made By <i class="fa fa-heart" />
+            <div id="foo"> Made with <i class="fa fa-heart" />
 
             Anant</div>
     );
